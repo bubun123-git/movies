@@ -1,0 +1,24 @@
+
+
+/* Style the form container */
+form {
+    width: 300px;
+    margin: 0 auto;
+  }
+  
+  /* Style the input fields */
+  input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Style the input labels */
+  label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
